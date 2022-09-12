@@ -1,4 +1,12 @@
-# Boot-Camp-Project-2
+# Netflix Rotten Tomatoes Scores
+## Languages: Python, PostgreSQL, APIs
+
+### Project Goals:
+- Use API calls to scrape websites, see Sources below
+- Extract, Transform, Load all relevant data from web scrapes
+- Connect Jupyter notebook to PostgreSQL database
+- Test connection to DB and validate
+
 The sources of data: 
 	Web Scrape from Rotten Tomatoes ( https://www.rottentomatoes.com/ )
 	Netflix Movies & TV Shows (https://www.kaggle.com/datasets/shivamb/netflix-shows)
